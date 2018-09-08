@@ -1,14 +1,14 @@
 # Site
-title:              Ambient Code
+title:              [Ambient Code
 bio:                '> Technical Blog <'
-description:        "One must live the way one thinks or end up thinking the way one has lived. - Paul Bourget"
+description:        '"One must live the way one thinks or end up thinking the way one has lived. - Paul Bourget"'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://ambientcodes.github.io/Blog
+url:                https://ambientcodes.github.io
 
 # Jekyll
 permalink:          /:title/
